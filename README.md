@@ -1,7 +1,7 @@
 # Football World Cup Winner Prediction
-Aim is to create a model which predicts the outcome of the FIFA World Cup 2018
+Aim is to create a model which predicts the winner of the FIFA World Cup 2018.
 
-Three datasets were used:
+Three datasets from kaggle were used:
 
 1. FIFA rankings from 1993 to 2018 - used to get the FIFA ranking and points for the teams, which is a monthly changing rank previously shown as a decent predictor of team performance
 
