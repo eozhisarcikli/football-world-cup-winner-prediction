@@ -18,5 +18,5 @@ International Soccer matches from 1872 to 2018 (courtesy of Mart Jürisoo) - to 
 and the current rank of the team affects the outocme of a match. A complete variable dictionary can be found 
 [here](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) . 
 
-3. FIFA World Cup 2018 data set (courtesy of Nuggs) - to get the upcoming matches. A complete variable dictionary can be found 
-[here](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) . 
+3. FIFA World Cup 2018 data set to get the upcoming matches. A complete variable dictionary can be found 
+[here](https://www.kaggle.com/datasets/ahmedelnaggar/fifa-worldcup-2018-dataset) . 
